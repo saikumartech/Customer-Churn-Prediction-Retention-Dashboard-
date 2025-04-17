@@ -67,7 +67,7 @@ Customer churn is a critical metric for businesses that rely on long-term user e
 
 **Sai Kumar**  
 Aspiring Data Scientist | Python | Machine Learning | Power BI  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/sai-kumar-akasapu-219165167/)
 
 ---
 
